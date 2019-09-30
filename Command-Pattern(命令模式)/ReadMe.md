@@ -1,0 +1,1 @@
+相关命令模式的讲解请点击[命令模式](https://gd-cking.github.io/CKING.github.io/2019/09/29/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F/)查看。
