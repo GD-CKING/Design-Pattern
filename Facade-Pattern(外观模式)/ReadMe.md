@@ -1,1 +1,1 @@
-外观模式的详情请点击
+外观模式的详情请点击[外观模式](https://gd-cking.github.io/CKING.github.io/2019/10/08/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F/)查看
